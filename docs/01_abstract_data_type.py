@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 # @Description: code for abstract data type and OOP
-# @Author: Shimin
+# @Author: 
 # @Copyright
 # @Version:0.0.1
 class Bag(object):
